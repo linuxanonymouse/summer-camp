@@ -1,0 +1,3 @@
+//copyrighted project if you find errors or bugs you can contact me on linuxnaonymouse@gmail.com
+This is summer camp progect and copyrighted project if any one try to edit or copy the code in here it is illegal it may get you in trouble so plase dont try to mess with it.
+other wise you can use this tool for normal use and seting up your os you have manual in the start screen of the tool have nice day
