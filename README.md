@@ -1,2 +1,2 @@
-# summer-cmap
+# summer-camp
 summer-camp-progects
